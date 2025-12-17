@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  SquareSum
-//
-//  Created by Hades on 12/17/25.
-//
 
 import UIKit
 
