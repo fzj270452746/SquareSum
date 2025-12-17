@@ -6,7 +6,5 @@ target 'SquareSum' do
   use_frameworks!
 
   # Pods for SquareSum
-pod 'SnapKit'
-pod 'Alamofire'
-pod 'Kingfisher'
+
 end

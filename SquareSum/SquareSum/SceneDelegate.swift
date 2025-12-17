@@ -1,29 +1,22 @@
+//
+//  SceneDelegate.swift
+//  SquareSum
+//
+//  Created by Hades on 12/17/25.
+//
 
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
-    var petalCoordinator: PetalNavigationCoordinator?
+
 
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
-        guard let windowScene = (scene as? UIWindowScene) else { return }
-
-        // Create window
-        let window = UIWindow(windowScene: windowScene)
-        self.window = window
-
-        // Create navigation controller
-        let navigationController = UINavigationController()
-
-        // Create and start coordinator
-        let coordinator = PetalNavigationCoordinator(navigationController: navigationController)
-        self.petalCoordinator = coordinator
-        coordinator.embarkJourney()
-
-        // Set root and display
-        window.rootViewController = navigationController
-        window.makeKeyAndVisible()
+        // Use this method to optionally configure and attach the UIWindow `window` to the provided UIWindowScene `scene`.
+        // If using a storyboard, the `window` property will automatically be initialized and attached to the scene.
+        // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
+        guard let _ = (scene as? UIWindowScene) else { return }
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {

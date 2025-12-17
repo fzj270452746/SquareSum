@@ -11,7 +11,7 @@ workflows:
         bundle_identifier: com.sss.SquareSum
       vars:
         BUNDLE_ID: $bundle_identifier
-        PROJECT_PATH: "fdsadKSIO" #5:工程名称
+        PROJECT_PATH: "SquareSum" #5:工程名称
         XCODE_WORKSPACE: "$PROJECT_PATH/$PROJECT_PATH.xcworkspace"
         XCODE_SCHEME: $PROJECT_PATH
         APP_STORE_APPLE_ID: 6756645480
