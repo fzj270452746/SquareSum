@@ -1,0 +1,6 @@
+framework module Pods_SquareSum {
+  umbrella header "Pods-SquareSum-umbrella.h"
+
+  export *
+  module * { export * }
+}
