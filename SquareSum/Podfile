@@ -8,5 +8,5 @@ target 'SquareSum' do
   # Pods for SquareSum
 pod 'SnapKit'
 pod 'Alamofire'
-pod 'Kingfisher'
+#pod 'Kingfisher'
 end

@@ -7,15 +7,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "AE01C19C-07BA-4D9E-8C06-AD7816BBA0A6"
-            shouldBeEnabled = "Yes"
+            uuid = "B9252F1D-4C37-4D5E-AE6E-7D5FD036A8D7"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SquareSum/New Group/TermometroMostroView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "403"
-            endingLineNumber = "403"
+            startingLineNumber = "397"
+            endingLineNumber = "397"
             landmarkName = "aggiornaPosizioniMostri()"
             landmarkType = "7">
          </BreakpointContent>

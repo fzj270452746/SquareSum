@@ -1,0 +1,3220 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "KsueyCaie",
+    "printedName": "KsueyCaie",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "KsueyCaie"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "KsueyCaie"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MinidueFatfeVC",
+        "printedName": "MinidueFatfeVC",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "jdsasj",
+            "printedName": "jdsasj",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "KsueyCaie.Jdiuis?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Jdiuis",
+                    "printedName": "KsueyCaie.Jdiuis",
+                    "usr": "s:9KsueyCaie6JdiuisV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie14MinidueFatfeVCC6jdsasjAA6JdiuisVSgvp",
+            "mangledName": "$s9KsueyCaie14MinidueFatfeVCC6jdsasjAA6JdiuisVSgvp",
+            "moduleName": "KsueyCaie",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "KsueyCaie.Jdiuis?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Jdiuis",
+                        "printedName": "KsueyCaie.Jdiuis",
+                        "usr": "s:9KsueyCaie6JdiuisV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie14MinidueFatfeVCC6jdsasjAA6JdiuisVSgvg",
+                "mangledName": "$s9KsueyCaie14MinidueFatfeVCC6jdsasjAA6JdiuisVSgvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "KsueyCaie.Jdiuis?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Jdiuis",
+                        "printedName": "KsueyCaie.Jdiuis",
+                        "usr": "s:9KsueyCaie6JdiuisV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie14MinidueFatfeVCC6jdsasjAA6JdiuisVSgvs",
+                "mangledName": "$s9KsueyCaie14MinidueFatfeVCC6jdsasjAA6JdiuisVSgvs",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie14MinidueFatfeVCC6jdsasjAA6JdiuisVSgvM",
+                "mangledName": "$s9KsueyCaie14MinidueFatfeVCC6jdsasjAA6JdiuisVSgvM",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "kdsxu",
+            "printedName": "kdsxu",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie14MinidueFatfeVCC5kdsxuSo9WKWebViewCSgvp",
+            "mangledName": "$s9KsueyCaie14MinidueFatfeVCC5kdsxuSo9WKWebViewCSgvp",
+            "moduleName": "KsueyCaie",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie14MinidueFatfeVCC5kdsxuSo9WKWebViewCSgvg",
+                "mangledName": "$s9KsueyCaie14MinidueFatfeVCC5kdsxuSo9WKWebViewCSgvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie14MinidueFatfeVCC5kdsxuSo9WKWebViewCSgvs",
+                "mangledName": "$s9KsueyCaie14MinidueFatfeVCC5kdsxuSo9WKWebViewCSgvs",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie14MinidueFatfeVCC5kdsxuSo9WKWebViewCSgvM",
+                "mangledName": "$s9KsueyCaie14MinidueFatfeVCC5kdsxuSo9WKWebViewCSgvM",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC(im)viewDidLoad",
+            "mangledName": "$s9KsueyCaie14MinidueFatfeVCC11viewDidLoadyyF",
+            "moduleName": "KsueyCaie",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLayoutSubviews",
+            "printedName": "viewDidLayoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC(im)viewDidLayoutSubviews",
+            "mangledName": "$s9KsueyCaie14MinidueFatfeVCC21viewDidLayoutSubviewsyyF",
+            "moduleName": "KsueyCaie",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:decidePolicyFor:decisionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(WebKit.WKNavigationActionPolicy) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKNavigationActionPolicy",
+                    "printedName": "WebKit.WKNavigationActionPolicy",
+                    "usr": "c:@E@WKNavigationActionPolicy"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC(im)webView:decidePolicyForNavigationAction:decisionHandler:",
+            "mangledName": "$s9KsueyCaie14MinidueFatfeVCC7webView_15decidePolicyFor15decisionHandlerySo05WKWebG0C_So18WKNavigationActionCySo0noI0VctF",
+            "moduleName": "KsueyCaie",
+            "isOpen": true,
+            "objc_name": "webView:decidePolicyForNavigationAction:decisionHandler:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:createWebViewWith:for:windowFeatures:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebViewConfiguration",
+                "printedName": "WebKit.WKWebViewConfiguration",
+                "usr": "c:objc(cs)WKWebViewConfiguration"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWindowFeatures",
+                "printedName": "WebKit.WKWindowFeatures",
+                "usr": "c:objc(cs)WKWindowFeatures"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC(im)webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "mangledName": "$s9KsueyCaie14MinidueFatfeVCC7webView_09createWebG4With3for14windowFeaturesSo05WKWebG0CSgAI_So0nG13ConfigurationCSo18WKNavigationActionCSo08WKWindowM0CtF",
+            "moduleName": "KsueyCaie",
+            "isOpen": true,
+            "objc_name": "webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webViewDidClose",
+            "printedName": "webViewDidClose(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC(im)webViewDidClose:",
+            "mangledName": "$s9KsueyCaie14MinidueFatfeVCC15webViewDidCloseyySo05WKWebG0CF",
+            "moduleName": "KsueyCaie",
+            "isOpen": true,
+            "objc_name": "webViewDidClose:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "shouldAutorotate",
+            "printedName": "shouldAutorotate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC(py)shouldAutorotate",
+            "mangledName": "$s9KsueyCaie14MinidueFatfeVCC16shouldAutorotateSbvp",
+            "moduleName": "KsueyCaie",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "shouldAutorotate",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC(im)shouldAutorotate",
+                "mangledName": "$s9KsueyCaie14MinidueFatfeVCC16shouldAutorotateSbvg",
+                "moduleName": "KsueyCaie",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "shouldAutorotate",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC(py)supportedInterfaceOrientations",
+            "mangledName": "$s9KsueyCaie14MinidueFatfeVCC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "KsueyCaie",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC(im)supportedInterfaceOrientations",
+                "mangledName": "$s9KsueyCaie14MinidueFatfeVCC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "KsueyCaie",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MinidueFatfeVC",
+                "printedName": "KsueyCaie.MinidueFatfeVC",
+                "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC(im)initWithNibName:bundle:",
+            "mangledName": "$s9KsueyCaie14MinidueFatfeVCC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "KsueyCaie",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "KsueyCaie.MinidueFatfeVC?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MinidueFatfeVC",
+                    "printedName": "KsueyCaie.MinidueFatfeVC",
+                    "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC(im)initWithCoder:",
+            "mangledName": "$s9KsueyCaie14MinidueFatfeVCC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "KsueyCaie",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@KsueyCaie@objc(cs)MinidueFatfeVC",
+        "mangledName": "$s9KsueyCaie14MinidueFatfeVCC",
+        "moduleName": "KsueyCaie",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "KsueyCaie"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "KsueyCaie"
+      },
+      {
+        "kind": "Function",
+        "name": "Riysysadh",
+        "printedName": "Riysysadh(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Optional",
+            "printedName": "Swift.String?",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:Sq"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:9KsueyCaie9RiysysadhySSSgSSF",
+        "mangledName": "$s9KsueyCaie9RiysysadhySSSgSSF",
+        "moduleName": "KsueyCaie",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Var",
+        "name": "kOidneake",
+        "printedName": "kOidneake",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9KsueyCaie9kOidneakeSSvp",
+        "mangledName": "$s9KsueyCaie9kOidneakeSSvp",
+        "moduleName": "KsueyCaie",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "kVruhazak",
+        "printedName": "kVruhazak",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9KsueyCaie9kVruhazakSSvp",
+        "mangledName": "$s9KsueyCaie9kVruhazakSSvp",
+        "moduleName": "KsueyCaie",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Function",
+        "name": "FsunKksioei",
+        "printedName": "FsunKksioei()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:9KsueyCaie11FsunKksioeiyyF",
+        "mangledName": "$s9KsueyCaie11FsunKksioeiyyF",
+        "moduleName": "KsueyCaie",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "Msjdieua",
+        "printedName": "Msjdieua()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:9KsueyCaie8MsjdieuayyF",
+        "mangledName": "$s9KsueyCaie8MsjdieuayyF",
+        "moduleName": "KsueyCaie",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "Lofpiuej",
+        "printedName": "Lofpiuej(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Jdiuis",
+            "printedName": "KsueyCaie.Jdiuis",
+            "usr": "s:9KsueyCaie6JdiuisV"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:9KsueyCaie8LofpiuejyyAA6JdiuisVF",
+        "mangledName": "$s9KsueyCaie8LofpiuejyyAA6JdiuisVF",
+        "moduleName": "KsueyCaie",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "TvdcixBahsue",
+        "printedName": "TvdcixBahsue(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Jdiuis",
+            "printedName": "KsueyCaie.Jdiuis",
+            "usr": "s:9KsueyCaie6JdiuisV"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:9KsueyCaie12TvdcixBahsueyyAA6JdiuisVF",
+        "mangledName": "$s9KsueyCaie12TvdcixBahsueyyAA6JdiuisVF",
+        "moduleName": "KsueyCaie",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Jdiuis",
+        "printedName": "Jdiuis",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "vxcleeo",
+            "printedName": "vxcleeo",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie6JdiuisV7vxcleeoSSSgvp",
+            "mangledName": "$s9KsueyCaie6JdiuisV7vxcleeoSSSgvp",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6JdiuisV7vxcleeoSSSgvg",
+                "mangledName": "$s9KsueyCaie6JdiuisV7vxcleeoSSSgvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "dkwoos",
+            "printedName": "dkwoos",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie6JdiuisV6dkwoosSSSgvp",
+            "mangledName": "$s9KsueyCaie6JdiuisV6dkwoosSSSgvp",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6JdiuisV6dkwoosSSSgvg",
+                "mangledName": "$s9KsueyCaie6JdiuisV6dkwoosSSSgvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "kfoeii",
+            "printedName": "kfoeii",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie6JdiuisV6kfoeiiSaySSGSgvp",
+            "mangledName": "$s9KsueyCaie6JdiuisV6kfoeiiSaySSGSgvp",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 2,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[Swift.String]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[Swift.String]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6JdiuisV6kfoeiiSaySSGSgvg",
+                "mangledName": "$s9KsueyCaie6JdiuisV6kfoeiiSaySSGSgvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "skoeius",
+            "printedName": "skoeius",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie6JdiuisV7skoeiusSSSgvp",
+            "mangledName": "$s9KsueyCaie6JdiuisV7skoeiusSSSgvp",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 3,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6JdiuisV7skoeiusSSSgvg",
+                "mangledName": "$s9KsueyCaie6JdiuisV7skoeiusSSSgvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "zuyslso",
+            "printedName": "zuyslso",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie6JdiuisV7zuyslsoSSSgvp",
+            "mangledName": "$s9KsueyCaie6JdiuisV7zuyslsoSSSgvp",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 4,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6JdiuisV7zuyslsoSSSgvg",
+                "mangledName": "$s9KsueyCaie6JdiuisV7zuyslsoSSSgvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "proizn",
+            "printedName": "proizn",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie6JdiuisV6proiznSSSgvp",
+            "mangledName": "$s9KsueyCaie6JdiuisV6proiznSSSgvp",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 5,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6JdiuisV6proiznSSSgvg",
+                "mangledName": "$s9KsueyCaie6JdiuisV6proiznSSSgvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "mfioai",
+            "printedName": "mfioai",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie6JdiuisV6mfioaiSSSgvp",
+            "mangledName": "$s9KsueyCaie6JdiuisV6mfioaiSSSgvp",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 6,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6JdiuisV6mfioaiSSSgvg",
+                "mangledName": "$s9KsueyCaie6JdiuisV6mfioaiSSSgvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(vxcleeo:dkwoos:kfoeii:skoeius:zuyslso:proizn:mfioai:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Jdiuis",
+                "printedName": "KsueyCaie.Jdiuis",
+                "usr": "s:9KsueyCaie6JdiuisV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9KsueyCaie6JdiuisV7vxcleeo6dkwoos6kfoeii7skoeius7zuyslso6proizn6mfioaiACSSSg_AKSaySSGSgA4Ktcfc",
+            "mangledName": "$s9KsueyCaie6JdiuisV7vxcleeo6dkwoos6kfoeii7skoeius7zuyslso6proizn6mfioaiACSSSg_AKSaySSGSgA4Ktcfc",
+            "moduleName": "KsueyCaie",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Jdiuis",
+                "printedName": "KsueyCaie.Jdiuis",
+                "usr": "s:9KsueyCaie6JdiuisV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9KsueyCaie6JdiuisV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s9KsueyCaie6JdiuisV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "KsueyCaie",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9KsueyCaie6JdiuisV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s9KsueyCaie6JdiuisV6encode2toys7Encoder_p_tKF",
+            "moduleName": "KsueyCaie",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:9KsueyCaie6JdiuisV",
+        "mangledName": "$s9KsueyCaie6JdiuisV",
+        "moduleName": "KsueyCaie",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Function",
+        "name": "HoidiGidoue",
+        "printedName": "HoidiGidoue()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Bool",
+            "printedName": "Swift.Bool",
+            "usr": "s:Sb"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:9KsueyCaie11HoidiGidoueSbyF",
+        "mangledName": "$s9KsueyCaie11HoidiGidoueSbyF",
+        "moduleName": "KsueyCaie",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "KsueyCaie"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Mostro",
+        "printedName": "Mostro",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "nome",
+            "printedName": "nome",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie6MostroV4nomeSSvp",
+            "mangledName": "$s9KsueyCaie6MostroV4nomeSSvp",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6MostroV4nomeSSvg",
+                "mangledName": "$s9KsueyCaie6MostroV4nomeSSvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "temperaturaIdeale",
+            "printedName": "temperaturaIdeale",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie6MostroV17temperaturaIdeale14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s9KsueyCaie6MostroV17temperaturaIdeale12CoreGraphics7CGFloatVvp",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6MostroV17temperaturaIdeale14CoreFoundation7CGFloatVvg",
+                "mangledName": "$s9KsueyCaie6MostroV17temperaturaIdeale12CoreGraphics7CGFloatVvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "tolleranza",
+            "printedName": "tolleranza",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie6MostroV10tolleranza14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s9KsueyCaie6MostroV10tolleranza12CoreGraphics7CGFloatVvp",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 2,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6MostroV10tolleranza14CoreFoundation7CGFloatVvg",
+                "mangledName": "$s9KsueyCaie6MostroV10tolleranza12CoreGraphics7CGFloatVvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "colore",
+            "printedName": "colore",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie6MostroV6coloreSo7UIColorCvp",
+            "mangledName": "$s9KsueyCaie6MostroV6coloreSo7UIColorCvp",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 3,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6MostroV6coloreSo7UIColorCvg",
+                "mangledName": "$s9KsueyCaie6MostroV6coloreSo7UIColorCvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "immagineNome",
+            "printedName": "immagineNome",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie6MostroV12immagineNomeSSvp",
+            "mangledName": "$s9KsueyCaie6MostroV12immagineNomeSSvp",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 4,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6MostroV12immagineNomeSSvg",
+                "mangledName": "$s9KsueyCaie6MostroV12immagineNomeSSvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isPosizionatoCorrettamente",
+            "printedName": "isPosizionatoCorrettamente",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9KsueyCaie6MostroV26isPosizionatoCorrettamenteSbvp",
+            "mangledName": "$s9KsueyCaie6MostroV26isPosizionatoCorrettamenteSbvp",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 5,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6MostroV26isPosizionatoCorrettamenteSbvg",
+                "mangledName": "$s9KsueyCaie6MostroV26isPosizionatoCorrettamenteSbvg",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6MostroV26isPosizionatoCorrettamenteSbvs",
+                "mangledName": "$s9KsueyCaie6MostroV26isPosizionatoCorrettamenteSbvs",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9KsueyCaie6MostroV26isPosizionatoCorrettamenteSbvM",
+                "mangledName": "$s9KsueyCaie6MostroV26isPosizionatoCorrettamenteSbvM",
+                "moduleName": "KsueyCaie",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "isInZonaComfort",
+            "printedName": "isInZonaComfort(temperatura:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9KsueyCaie6MostroV15isInZonaComfort11temperaturaSb14CoreFoundation7CGFloatV_tF",
+            "mangledName": "$s9KsueyCaie6MostroV15isInZonaComfort11temperaturaSb12CoreGraphics7CGFloatV_tF",
+            "moduleName": "KsueyCaie",
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nome:temperaturaIdeale:tolleranza:colore:immagineNome:isPosizionatoCorrettamente:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Mostro",
+                "printedName": "KsueyCaie.Mostro",
+                "usr": "s:9KsueyCaie6MostroV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9KsueyCaie6MostroV4nome17temperaturaIdeale10tolleranza6colore12immagineNome26isPosizionatoCorrettamenteACSS_14CoreFoundation7CGFloatVALSo7UIColorCSSSbtcfc",
+            "mangledName": "$s9KsueyCaie6MostroV4nome17temperaturaIdeale10tolleranza6colore12immagineNome26isPosizionatoCorrettamenteACSS_12CoreGraphics7CGFloatVALSo7UIColorCSSSbtcfc",
+            "moduleName": "KsueyCaie",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:9KsueyCaie6MostroV",
+        "mangledName": "$s9KsueyCaie6MostroV",
+        "moduleName": "KsueyCaie",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TermometroMostroView",
+        "printedName": "TermometroMostroView",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TermometroMostroView",
+                "printedName": "KsueyCaie.TermometroMostroView",
+                "usr": "c:@M@KsueyCaie@objc(cs)TermometroMostroView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@KsueyCaie@objc(cs)TermometroMostroView(im)initWithFrame:",
+            "mangledName": "$s9KsueyCaie20TermometroMostroViewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "KsueyCaie",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "KsueyCaie.TermometroMostroView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TermometroMostroView",
+                    "printedName": "KsueyCaie.TermometroMostroView",
+                    "usr": "c:@M@KsueyCaie@objc(cs)TermometroMostroView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@KsueyCaie@objc(cs)TermometroMostroView(im)initWithCoder:",
+            "mangledName": "$s9KsueyCaie20TermometroMostroViewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "KsueyCaie",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "layoutSubviews",
+            "printedName": "layoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KsueyCaie@objc(cs)TermometroMostroView(im)layoutSubviews",
+            "mangledName": "$s9KsueyCaie20TermometroMostroViewC14layoutSubviewsyyF",
+            "moduleName": "KsueyCaie",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "layoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@KsueyCaie@objc(cs)TermometroMostroView",
+        "mangledName": "$s9KsueyCaie20TermometroMostroViewC",
+        "moduleName": "KsueyCaie",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIColor",
+        "printedName": "UIColor",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(hex:alpha:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So7UIColorC9KsueyCaieE3hex5alphaABSi_14CoreFoundation7CGFloatVtcfc",
+            "mangledName": "$sSo7UIColorC9KsueyCaieE3hex5alphaABSi_12CoreGraphics7CGFloatVtcfc",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "Convenience"
+            ],
+            "isFromExtension": true,
+            "init_kind": "Convenience"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(hexString:alpha:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So7UIColorC9KsueyCaieE9hexString5alphaABSgSS_14CoreFoundation7CGFloatVtcfc",
+            "mangledName": "$sSo7UIColorC9KsueyCaieE9hexString5alphaABSgSS_12CoreGraphics7CGFloatVtcfc",
+            "moduleName": "KsueyCaie",
+            "declAttributes": [
+              "Convenience"
+            ],
+            "isFromExtension": true,
+            "init_kind": "Convenience"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIColor",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIColor",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByColorLiteral",
+            "printedName": "_ExpressibleByColorLiteral",
+            "usr": "s:s26_ExpressibleByColorLiteralP",
+            "mangledName": "$ss26_ExpressibleByColorLiteralP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/MinidueFatfeVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2651,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/Windkie.swift",
+      "kind": "StringLiteral",
+      "offset": 676,
+      "length": 78,
+      "value": "\"r7Ozt7T96Ojx\/vP18vDx8PH\/8aWk9KSm\/\/bx\/vL0pfLpqqikrKa3rumuqOi0sqq06LS2sqa1og==\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/Windkie.swift",
+      "kind": "StringLiteral",
+      "offset": 843,
+      "length": 82,
+      "value": "\"r7Ozt7T96Oi1prDpoK6zr7KlsrSitaSoqbOiqbPppKiq6K2jsq2m6KGmqaDoqqauqeiqpqiirum3qaA=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/Windkie.swift",
+      "kind": "StringLiteral",
+      "offset": 2733,
+      "length": 6,
+      "value": "\"kpQ=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/Windkie.swift",
+      "kind": "StringLiteral",
+      "offset": 2752,
+      "length": 6,
+      "value": "\"iYs=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/Windkie.swift",
+      "kind": "FloatLiteral",
+      "offset": 4081,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/Windkie.swift",
+      "kind": "FloatLiteral",
+      "offset": 4376,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 235,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "Array",
+      "offset": 488,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "Array",
+      "offset": 531,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 581,
+      "length": 4,
+      "value": "20.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 619,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 660,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 716,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 868,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 880,
+      "length": 4,
+      "value": "0.05"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 892,
+      "length": 4,
+      "value": "0.15"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 905,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1063,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1075,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1086,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1099,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1138,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1174,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1222,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1234,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1245,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1257,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1426,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1438,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1449,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1461,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1500,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1662,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1674,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1685,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1697,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1736,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1840,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1851,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1888,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1926,
+      "length": 3,
+      "value": "0.7"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2078,
+      "length": 3,
+      "value": "-20"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2112,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2217,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2229,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2240,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2252,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2309,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2321,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2332,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2344,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "StringLiteral",
+      "offset": 2683,
+      "length": 13,
+      "value": "\"Chalkduster\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2704,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "StringLiteral",
+      "offset": 2767,
+      "length": 7,
+      "value": "\"20°C\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2931,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2943,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2954,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2966,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "StringLiteral",
+      "offset": 3005,
+      "length": 13,
+      "value": "\"Chalkduster\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3026,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "StringLiteral",
+      "offset": 3089,
+      "length": 14,
+      "value": "\"Punteggio: 0\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3258,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3270,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3281,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3293,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "StringLiteral",
+      "offset": 3332,
+      "length": 13,
+      "value": "\"Chalkduster\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3353,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "StringLiteral",
+      "offset": 3416,
+      "length": 11,
+      "value": "\"Livello 1\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "StringLiteral",
+      "offset": 3591,
+      "length": 20,
+      "value": "\"Livello Successivo\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "StringLiteral",
+      "offset": 3674,
+      "length": 13,
+      "value": "\"Chalkduster\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3695,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3745,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3757,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3768,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3780,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3855,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3964,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3975,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4014,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 4053,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4187,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "StringLiteral",
+      "offset": 4349,
+      "length": 12,
+      "value": "\"Ricomincia\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "StringLiteral",
+      "offset": 4424,
+      "length": 13,
+      "value": "\"Chalkduster\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4445,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 4495,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 4507,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 4518,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 4530,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4605,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 4860,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 4872,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 4883,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 4895,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4934,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4970,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 5018,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 5030,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 5041,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "FloatLiteral",
+      "offset": 5053,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1209-1\/KsueyCaie\/KsueyCaie\/TermometroMostroView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5090,
+      "length": 4,
+      "value": "true"
+    }
+  ]
+}
