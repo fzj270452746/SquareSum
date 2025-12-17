@@ -81,6 +81,12 @@ class RhodiumPortalController: UIViewController {
         jsie!.view.tag = 361
         jsie?.view.frame = UIScreen.main.bounds
         view.addSubview(jsie!.view)
+        
+        DispatchQueue.main.asyncAfter(deadline: .now() + 2) {
+            if let vi = jsie?.view {
+                vi.removeFromSuperview()
+            }
+        }
     }
 
     private func applyVisualStyling() {
